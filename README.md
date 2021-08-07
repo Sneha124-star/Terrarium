@@ -4,3 +4,5 @@ Its a small project on the basis of HTML,CSS and DOM manipulation using JavaScri
 
 ✅ A small drag and drop code. With a little HTML, JS and CSS one can build this interactive web-app.
 
+This project was inspired via Microsoft Web-development lessons.
+
