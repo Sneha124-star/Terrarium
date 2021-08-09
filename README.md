@@ -7,6 +7,5 @@ Its a small project on the basis of HTML,CSS and DOM manipulation using JavaScri
 This project was inspired via Microsoft Web-development lessons.
 
 🌿 Check out the complete project in browser:
-      
       https://sneha124-star.github.io/Terrarium/
 
